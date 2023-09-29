@@ -3,6 +3,8 @@
 
 This repository contains a customized Artist API built using Django REST Framework. The API allows users to perform CRUD operations on artists and their works. Token-based authentication is implemented using Django REST Framework's built-in authentication classes to ensure that only authenticated users can perform the CRUD operations.
 
+# for superuser credential username= root , password=root
+
 ## Setup and Installation
 
 1. Clone the repository to your local machine:
